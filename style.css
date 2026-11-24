@@ -1,0 +1,21 @@
+
+body{
+    background: #88f2fc;
+background: linear-gradient(90deg, rgba(136, 242, 252, 1) 22%, rgba(0, 4, 255, 1) 43%, rgba(120, 174, 255, 1) 79%);
+text-align: center;
+}
+button{
+padding: 15px;
+background-color: aquamarine;
+border-radius: 15px;
+}
+button{
+padding: 15px;
+background-color: aquamarine;
+border-radius: 15px;
+}
+h1{
+color: white;
+}
+div{border-style: dashed ; padding: 5px; width: 1500px; height: 100px;text-align: center;}
+
